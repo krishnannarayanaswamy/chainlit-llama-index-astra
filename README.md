@@ -6,7 +6,7 @@ Store the Astra token in json format
 Store the secure conenct bundle
 
 
-pip3 install llama-index cassandra-driver pypdf python-dotenv chainlit
+pip3 install ragstack-ai cassandra-driver pypdf python-dotenv chainlit
 
 export OPENAI_API_KEY='with your key'
 
